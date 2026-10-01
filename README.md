@@ -4,7 +4,7 @@ Este repositorio contiene la implementación en Java de los patrones de diseño 
 
 ## Integrantes (Grupo 1)
 * Luis Gabriel Campo Núñez
-* Víctor Canos Chavarría
+* Víctor Cano Chavarría
 * Líbardo Hernández Vega
 
 ## Eje de Contraste
