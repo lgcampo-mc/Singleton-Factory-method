@@ -45,5 +45,5 @@ Asegúrate de tener instalado el JDK. Abre una terminal en la carpeta raíz del 
 *   **Factory Method Inicial:**
     `java -cp out Factory_Method_Inicial.Main`
 
-*   **Factory Method Refactorizada:**
+*   **Factory Method  Refactorizada:**
     `java -cp out Factory_Method_Refactorizada.Main`
